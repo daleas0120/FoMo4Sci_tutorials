@@ -38,8 +38,8 @@ The official repository for this Docker is [here](https://github.com/CARTE-Toron
 ### 2. Clone the Repository
 
 ```bash
-git clone https://github.com/ai-for-science-org/private_tutorials.git
-cd private_tutorials
+git clone https://github.com/ai-for-science-org/tutorials.git
+cd tutorials
 ```
 
 ### 3. Launch Jupyter
